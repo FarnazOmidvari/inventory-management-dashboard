@@ -156,6 +156,7 @@ Inventory-Management-Dashboard/
 
 ## 🖼️ تصاویر
 پوشه `screenshots/` شامل تصاویر کلیدی صفحات است:  
+- `main_page.png`  
 ![main_page.png ](./screenshots/main_page.png)
 - `sales_status.png`  
 - `product_status.png`  

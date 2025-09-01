@@ -159,11 +159,12 @@ Inventory-Management-Dashboard/
 
 ## 🖼️ Screenshots  
 The `screenshots/` folder includes snapshots of key pages:  
+- `main_page.png`  
 ![main_page.png ](./screenshots/main_page.png)
-- sales_status.png  
-- product_status.png  
-- iran_map.png  
-- warehouse_status.png  
+- `sales_status.png`  
+- `product_status.png`  
+- `iran_map.png` 
+- `warehouse_status.png`
 
 ---
 
